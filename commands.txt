@@ -1,0 +1,137 @@
+    1  git --version
+    2  mkdir Mar25
+    3  cd Mar25/
+    4  ll
+    5  git init
+    6  ll
+    7  ls -ltr
+    8  cd ../
+    9  ll
+   10  cd Mar25/
+   11  ll
+   12  ls -lart
+   13  cd .git/
+   14  ll
+   15  cd ../
+   16  touch java
+   17  ll
+   18  git status
+   19  git add java
+   20  git status
+   21  git commit -m "my first java"
+   22  git config --global user.name "kalyan"
+   23  git config --global user.email kalyanroyal321@gmail.com
+   24  git commit -m "my first java"
+   25  git config --global user.name kalyan pasupuleti
+   26  git status
+   27  git log
+   28  git showw c018fa0ab214e19e68c13c26f9464227ea1ececb
+   29  git show c018fa0ab214e19e68c13c26f9464227ea1ececb
+   30  clea
+   31  clear
+   32  touch docker
+   33  git status
+   34  git add docker
+   35  git status
+   36  git commit -m "docker commit"
+   37  git status
+   38  git log
+   39  git show 2660f6d5a3edbe4d08642544e23c1884e2ae06ad
+   40  clear
+   41  touch chiru nag pavan balu venky
+   42  git status
+   43  git add .
+   44  git status
+   45  git commit -m "heroes"
+   46  git status
+   47  git status
+   48  git log
+   49  git show fb4d8d4b989ad3c678f643d9511e303b0f2f5c92
+   50  git config --global --list
+   51  git config --global user.name "kalyan pasupuleti"
+   52  git config --global user.name "kalyanpasupuleti"
+   53  git config --global user.name "sateesh"
+   54  git config --global user.email softwarekalyan66@gmail.com
+   55  git config --global user.name "kalyan pasupuleti"
+   56  git config --global --list
+   57  git config --global --unset user.name "kalyan"
+   58  git config --global --unset-all kalyan
+   59  git config --global --unset-all user.name
+   60  git config --global --list
+   61  git config --global user.name "kalyan pasupuleti"
+   62  git config --global --list
+   63  git config --global --unset-all user.name
+   64  git config --global user.name kalyan pasupuleti
+   65  git config --global --list
+   66  git config --global --unset-all user.name
+   67  git config --global user.name "kalyan pasupuleti"
+   68  history
+   69  ls -ltr
+   70  vi Commands_Mar25.txt
+   71  clear
+   72  ls -ltr
+   73  git status
+   74  git add .
+   75  git status
+   76  git commit -m "Mar25 git commands"
+   77  git status
+   78  git log
+   79  ls -ltr
+   80  cat Commands_Mar25.txt
+   81  cd ../
+   82  mkdir gittest
+   83  cd gittest/
+   84  ll
+   85  git --version
+   86  git init
+   87  ll
+   88  ls -lart
+   89  touch linux
+   90  git config --global user.name "sateesh"
+   91  git config --global user.email "sateesh321@gmail.com"
+   92  git status
+   93  git add
+   94  git add .
+   95  git status
+   96  git commit -m "my first linux"
+   97  ls -ltr
+   98  git status
+   99  git config --global --list
+  100  git config --global --unset user.name
+  101  git config --global --list
+  102  git config --global user.name satessh
+  103  git confgi --global --list
+  104  git config --global --list
+  105  git log
+  106  git show e7cabaeb138b914fb508e1eae5c98b9fd741c74e
+  107  git config --global --list
+  108  git config --global user.name satessh
+  109  git config --global --list
+  110  git config --global user.name satessh kamasani
+  111  git config --global --list
+  112  git config --global --unset user.name
+  113  git config --global --unset-all
+  114  git config --global --unset-all user.name
+  115  git config --global --list
+  116  history
+  117  pwd
+  118  cd ../
+  119  ll
+  120  ls -ltr
+  121  git clone https://github.com/softwarekalyan66/Test.git
+  122  ls -lt
+  123  ls -ltr
+  124  cd Test/
+  125  ll
+  126  touch aws
+  127  git status
+  128  git add .
+  129  git status
+  130  git commit -m "Test"
+  131  git log
+  132  git config --global --list
+  133  git config --global user.name "Kalyan Pasupuleti"
+  134  git config --global user.email "kalyanroyal321@gmail.com"
+  135  git config --global --list
+  136  git push
+
